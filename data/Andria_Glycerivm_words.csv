@@ -1,0 +1,8 @@
+rank	word	wordlength	count	frequenz(count*100/7)	sum frequenz	zipf(rank*count)	zipf(max/rank)
+1	iuno	4	1	14.2857	14.2857	1	1
+1	lucina	6	1	14.2857	28.5714	1	1
+1	fer	3	1	14.2857	42.8571	1	1
+1	opem	4	1	14.2857	57.1429	1	1
+1	serva	5	1	14.2857	71.4286	1	1
+1	me	2	1	14.2857	85.7143	1	1
+1	obsecro	7	1	14.2857	100	1	1
