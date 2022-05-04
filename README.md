@@ -1,7 +1,7 @@
 # Publius Terentius Afer (Terence)
 ## Corpus statistics from the six plays of Terence[^1]
 
-Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991) and exported to XML with Diogens[^2] 
+Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)[^2] and exported to XML with Diogens[^3] 
 
 | title | orginal filename  | filename | Source Description |
 | :--- | :--- | :--- | :--- |
@@ -13,7 +13,7 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 | Phormio | phi0134004.xml | Phormio.xml | P. Terentius Afer. Phormio (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 004) |
 
 ## Files and folders
-- data: Folder for the XML files and the statistics in CSV format (tab-delimited).
+- data: Folder for the XML files and the statistics in CSV format (tab-delimited). The XML files of the six plays are not part of this repository.
 - functions.php: Some separated functions.
 - phi5_readTerenceSpeakers.php: Counts words:
   - from the author
@@ -45,4 +45,5 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 ```
 
 [^1]: https://en.wikipedia.org/wiki/Terence.
-[^2]: Version 4: https://d.iogen.es/d/.
+[^2]: For the digital resources see: https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form.
+[^3]: Version 4: https://d.iogen.es/d/.
