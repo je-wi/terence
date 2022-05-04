@@ -48,7 +48,7 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 		
     
 ```
-## CSV files
+## TSV files in data folder
 - Adelphoe_Aeschinvs_words.tsv
 - Adelphoe_Canthara_words.tsv
 - Adelphoe_Cantor_words.tsv
