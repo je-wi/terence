@@ -1,7 +1,7 @@
 # Publius Terentius Afer (Terence)
 Corpus statistics from the six plays of Terence
 
-Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991) and exported to XML with Diogens https://d.iogen.es/d/
+Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991) and exported to XML with Diogens [^1] 
 
 | Title | File | Author | Work | Source Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,3 +11,5 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 | Heauton Timorumenos | phi0134002.xml | 0134 | 002 | P. Terentius Afer. Heauton Timorumenos (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 002) |
 | Hecyra | phi0134005.xml | 0134 | 005 | P. Terentius Afer. Hecyra (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 005) |
 | Phormio | phi0134004.xml | 0134 | 004 | P. Terentius Afer. Phormio (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 004) |
+
+[^1] Version 4 https://d.iogen.es/d/
