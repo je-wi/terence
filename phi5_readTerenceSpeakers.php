@@ -165,7 +165,7 @@ foreach($allfiles as $file)
 this would imply making a copy of the text, since all lines are listed sorted by their speaker
 
       # speaker sentences with linenumbers
-      $senfile = str_replace('.xml','_sentences.csv',$file);
+      $senfile = str_replace('.xml','_sentences.tsv',$file);
       $delim = "\t";
       $nl = "\r\n";
       $csv = "speaker".$delim."line".$delim."sentence".$nl;       
@@ -185,7 +185,7 @@ this would imply making a copy of the text, since all lines are listed sorted by
      
     
     # word list for work
-    $workfile = str_replace('.xml','_words.csv',$file);
+    $workfile = str_replace('.xml','_words.tsv',$file);
     writeCalcWordList($destfolder.$workfile,$words2work); # functions.php
 
     }//end if  
@@ -214,7 +214,7 @@ foreach($words2speaker as $file => $speakers)
     $speakersPercentage[$file][$speaker] = $speakersWordsCount;
     
     # word list for speaker
-    $newfile = str_replace('.xml','_'.$speaker.'_words.csv',$file);
+    $newfile = str_replace('.xml','_'.$speaker.'_words.tsv',$file);
     writeCalcWordList($destfolder.$newfile,$words); # functions.php
     }//end foreach
   $speakersPercentage[$file]['all'] = $workWordsCount;
@@ -222,12 +222,12 @@ foreach($words2speaker as $file => $speakers)
 
 
 # author words list
-writeCalcWordList($destfolder.'terence_words.csv',$words2author);
+writeCalcWordList($destfolder.'terence_words.tsv',$words2author);
 
 # speaking portion
 foreach($speakersPercentage as $file => $speakers)
   {
-  $csvfile = str_replace('.xml','_percentage.csv',$file);
+  $csvfile = str_replace('.xml','_percentage.tsv',$file);
   $delim = "\t";
   $nl = "\r\n";
   $csv = "speaker".$delim."wordcount".$delim."percentage".$nl;
