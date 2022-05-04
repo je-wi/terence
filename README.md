@@ -1,2 +1,4 @@
-# terence
-corpus statistics from The six plays of Terence
+# Publius Terentius Afer (Terence)
+Corpus statistics from the six plays of Terence
+
+
