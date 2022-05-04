@@ -1,7 +1,0 @@
-rank	word	wordlength	count	frequenz(count*100/6)	sum frequenz	zipf(rank*count)	zipf(max/rank)
-1	ego	3	1	16.6667	16.6667	1	1
-1	amplius	7	1	16.6667	33.3333	1	1
-1	deliberandum	12	1	16.6667	50	1	1
-1	censeo	6	1	16.6667	66.6667	1	1
-1	res	3	1	16.6667	83.3333	1	1
-1	magnast	7	1	16.6667	100	1	1

@@ -1,3 +1,0 @@
-rank	word	wordlength	count	frequenz(count*100/2)	sum frequenz	zipf(rank*count)	zipf(max/rank)
-1	audivi	6	1	50	50	1	1
-1	memini	6	1	50	100	1	1
