@@ -19,7 +19,7 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
   - from the author
   - from a play
   - from a role in a play
-- terenti_personae.json: A configuration file in JSON format in which the abbreviations of the speaker elements are resolved per scene
+- terenti_personae.json: A configuration file in JSON format in which the abbreviations of the speaker elements are resolved per scene. The attribution of text passages to the speaking persons is problematic across the works, since the persons are only named in abbreviated form, and the abbreviations are not used unambiguously per piece, but are only understandable in the context of individual scenes. For example, the abbreviation CH. in Andria can stand for both Chremes (e.g. verse 533) and Charinvs (e.g. verse 301).
 ```json
 {
 	"Adelphoe.xml": {
@@ -41,6 +41,11 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 			"Sa.": "Sannio",
 			"Ct.": "Ctesipho"
 		},
+		
+		.
+		.
+		.
+		
     
 ```
 ## CSV files
