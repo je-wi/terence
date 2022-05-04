@@ -12,5 +12,14 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
 | Hecyra | phi0134005.xml | Hecyra.xml | P. Terentius Afer. Hecyra (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 005) |
 | Phormio | phi0134004.xml | Phormio.xml | P. Terentius Afer. Phormio (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 004) |
 
+## Files and folders
+- data: Folder for the XML files and the statistics in CSV format (tab-delimited).
+- functions.php: Some separated functions.
+- phi5_readTerenceSpeakers.php: Counts words:
+  - from the author
+  - from a play
+  - from a role in a play
+- terenti_personae.json
+
 [^1]: https://en.wikipedia.org/wiki/Terence.
 [^2]: Version 4: https://d.iogen.es/d/.
