@@ -1,0 +1,10 @@
+rank	word	wordlength	count	frequenz(count*100/9)	sum frequenz	zipf(rank*count)	zipf(max/rank)
+1	dixi	4	1	11.1111	11.1111	1	1
+1	equidem	7	1	11.1111	22.2222	1	1
+1	ubi	3	1	11.1111	33.3333	1	1
+1	mi	2	1	11.1111	44.4444	1	1
+1	ostendisti	10	1	11.1111	55.5556	1	1
+1	ilico	5	1	11.1111	66.6667	1	1
+1	eum	3	1	11.1111	77.7778	1	1
+1	esse	4	1	11.1111	88.8889	1	1
+1	satis	5	1	11.1111	100	1	1
