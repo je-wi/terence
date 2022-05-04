@@ -19,7 +19,30 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
   - from the author
   - from a play
   - from a role in a play
-- terenti_personae.json
+- terenti_personae.json: A configuration file in JSON format in which the abbreviations of the speaker elements are resolved per scene
+```
+{
+	"Adelphoe.xml": {
+		"Demea Micio": {
+			"De.": "Demea",
+			"Mi.": "Micio"
+		},
+		"Sannio Aeschinvs Parmeno (Bacchis)": {
+			"Sa.": "Sannio",
+			"Ae.": "Aeschinvs",
+			"Pa.": "Parmeno"
+		},
+		"Syrvs Sannio": {
+			"Sy.": "Syrvs",
+			"Sa.": "Sannio"
+		},
+		"Ctesipho Sannio Syrvs": {
+			"Sy.": "Syrvs",
+			"Sa.": "Sannio",
+			"Ct.": "Ctesipho"
+		},
+    
+```
 
 [^1]: https://en.wikipedia.org/wiki/Terence.
 [^2]: Version 4: https://d.iogen.es/d/.
