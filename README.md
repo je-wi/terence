@@ -20,7 +20,7 @@ Works are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)
   - from a play
   - from a role in a play
 - terenti_personae.json: A configuration file in JSON format in which the abbreviations of the speaker elements are resolved per scene
-```
+```json
 {
 	"Adelphoe.xml": {
 		"Demea Micio": {
