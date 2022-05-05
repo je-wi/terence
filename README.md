@@ -153,5 +153,5 @@ $nodeValue = str_replace( mb_chr(0x2014), mb_chr(0x0020), $nodeValue );
 - terence_words.tsv
 
 [^1]: https://en.wikipedia.org/wiki/Terence.
-[^2]: For the digital resources see: https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form.
+[^2]: For the digital resources see: https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form. There is an online version from the texts onthe website https://latin.packhum.org/author/134.
 [^3]: Version 4: https://d.iogen.es/d/.
