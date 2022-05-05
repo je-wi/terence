@@ -1,6 +1,7 @@
 <?php
 # intl
 # mbstring 
+# mb_chr needs PHP 7 >= 7.2.0
 
 exit('phi5_readSpeakers allways done');
 
