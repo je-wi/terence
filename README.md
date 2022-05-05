@@ -13,12 +13,16 @@ Digital Texts are from The Packard Humanities Institute's CD ROM 5.3 (published 
 | Phormio | phi0134004.xml | Phormio.xml | P. Terentius Afer. Phormio (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 004) |
 
 ## Files and folders
-- data: Folder for the XML files and the statistics in TSV format. The XML files of the six plays are not part of this repository.
+- data: Folder for the XML files and the statistics in TSV format. **The XML files of the six plays are not part of this repository.**
 - functions.php: Some separated functions.
 - phi5_readTerenceSpeakers.php: Counts words:
   - from the author
   - from a play
   - from a role in a play
+```php            
+# mb_chr needs PHP 7 >= 7.2.0
+$nodeValue = str_replace( mb_chr(0x2014), mb_chr(0x0020), $nodeValue );
+```
 - terenti_personae.json: A configuration file in JSON format in which the abbreviations of the speaker elements are resolved per scene. The attribution of text passages to the speaking persons is problematic across the works, since the persons are only named in abbreviated form, and the abbreviations are not used unambiguously per piece, but are only understandable in the context of individual scenes. For example, the abbreviation CH. in Andria can stand for both Chremes (e.g. verse 533) and Charinvs (e.g. verse 301).
 ```json
 {
