@@ -154,4 +154,4 @@ $nodeValue = str_replace( mb_chr(0x2014), mb_chr(0x0020), $nodeValue );
 
 [^1]: https://en.wikipedia.org/wiki/Terence.
 [^2]: There is an online version from the texts on the website https://latin.packhum.org/author/134. For information about Greek and Latin texts in digital form see: https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form. 
-[^3]: Version 4: https://d.iogen.es/d/.
+[^3]: Version 4: https://d.iogen.es/d/; https://github.com/pjheslin/diogenes.
