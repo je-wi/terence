@@ -1,7 +1,7 @@
 # Publius Terentius Afer (Terence)
 ## Corpus statistics from the six plays of Terence[^1]
 
-Digital Texts are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)[^2] and were exported to XML with Diogens[^3] 
+Digital Texts are from The Packard Humanities Institute's CD ROM 5.3 (published in 1991)[^2] and were exported to XML with Diogenes[^3] 
 
 | title | orginal filename  | filename | Source Description |
 | :--- | :--- | :--- | :--- |
