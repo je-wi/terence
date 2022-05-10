@@ -60,7 +60,7 @@ function translitString($str,$ruleset="Any-Latin; NFD; [:Nonspacing Mark:] Remov
     $allwords+=$word_count;
     }//end foreach     
   
-  $content.="rank".$delim."word".$delim."wordlength".$delim."count".$delim."frequenz(count*100/".$allwords.")".$delim."sum frequenz".$delim."zipf(rank*count)".$delim."zipf(max/rank)\r\n";  
+  $content.="rank".$delim."word".$delim."wordlength".$delim."count".$delim."frequency(count*100/".$allwords.")".$delim."sum frequency".$delim."zipf(rank*count)".$delim."zipf(max/rank)\r\n";  
 
   if( count($r) == 0 ) return;
   
