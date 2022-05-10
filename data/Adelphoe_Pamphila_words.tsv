@@ -1,0 +1,11 @@
+rank	word	wordlength	count	frequency(count*100/11)	sum frequency	zipf(rank*count)	zipf(max/rank)
+1	me	2	2	18.1818	18.1818	2	2
+2	miseram	7	1	9.0909	27.2727	2	1
+2	differor	8	1	9.0909	36.3636	2	1
+2	doloribus	9	1	9.0909	45.4545	2	1
+2	iuno	4	1	9.0909	54.5455	2	1
+2	lucina	6	1	9.0909	63.6364	2	1
+2	fer	3	1	9.0909	72.7273	2	1
+2	opem	4	1	9.0909	81.8182	2	1
+2	serva	5	1	9.0909	90.9091	2	1
+2	obsecro	7	1	9.0909	100	2	1

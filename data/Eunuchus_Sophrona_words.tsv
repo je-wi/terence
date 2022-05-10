@@ -1,0 +1,2 @@
+rank	word	wordlength	count	frequency(count*100/1)	sum frequency	zipf(rank*count)	zipf(max/rank)
+1	moveo	5	1	100	100	1	1

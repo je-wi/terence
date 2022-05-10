@@ -1,0 +1,8 @@
+rank	word	wordlength	count	frequency(count*100/7)	sum frequency	zipf(rank*count)	zipf(max/rank)
+1	heus	4	1	14.2857	14.2857	1	1
+1	syre	4	1	14.2857	28.5714	1	1
+1	rogat	5	1	14.2857	42.8571	1	1
+1	te	2	1	14.2857	57.1429	1	1
+1	ctesipho	8	1	14.2857	71.4286	1	1
+1	ut	2	1	14.2857	85.7143	1	1
+1	redeas	6	1	14.2857	100	1	1

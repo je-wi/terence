@@ -1,0 +1,9 @@
+rank	word	wordlength	count	frequency(count*100/8)	sum frequency	zipf(rank*count)	zipf(max/rank)
+1	quid	4	1	12.5	12.5	1	1
+1	vis	3	1	12.5	25	1	1
+1	quem	4	1	12.5	37.5	1	1
+1	ego	3	1	12.5	50	1	1
+1	iam	3	1	12.5	62.5	1	1
+1	te	2	1	12.5	75	1	1
+1	commotum	8	1	12.5	87.5	1	1
+1	reddam	6	1	12.5	100	1	1
