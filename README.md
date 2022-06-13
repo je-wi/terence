@@ -13,7 +13,14 @@ Digital Texts are from The Packard Humanities Institute's CD ROM 5.3 (published 
 | Phormio | phi0134004.xml | Phormio.xml | P. Terentius Afer. Phormio (P. Terenti Afri Comoediae, ed. R. Kauer; W. M. Lindsay; O. Skutsch, 1958).  (0134: 004) |
 
 ## Files and folders
-- data: Folder for the XML files and the statistics in TSV format. **The XML files of the six plays are not part of this repository.**
+- data: Folder for the XML files and the statistics in TSV format. **The XML files of the six plays are not part of this repository.** Here is an example fragment from the xml-file of Adelphoe
+```xml
+<l n="81t"><label type="speaker" rend="indent(4)"><hi rend="small-caps">Demea Micio</hi></label> </l>
+<l n="81"><label type="speaker" rend="indent(7)"><hi rend="small-caps">De.</hi></label> Ehem ŏpportune: tĕ ĭpsum quaerito. </l>
+<l n="82"><label type="speaker"><hi rend="small-caps">Mi.</hi></label> quid tristis es? <label type="speaker"><hi rend="small-caps">De.</hi></label> rogas me ubi nobis Aeschinus </l>
+<l n="83">siet? quid tristis ego sum? <label type="speaker"><hi rend="small-caps">Mi.</hi></label> dixin hoc fore? </l>
+<l n="84">quid fecit? <label type="speaker"><hi rend="small-caps">De.</hi></label> quid ĭlle fecerit? quem neque pudet </l>
+```
 - functions.php: Some separated functions.
 - phi5_readTerenceSpeakers.php: Counts words:
   - from the author
